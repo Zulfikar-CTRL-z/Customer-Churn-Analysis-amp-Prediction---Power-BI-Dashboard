@@ -1,11 +1,7 @@
 # Customer-Churn-Analysis-amp-Prediction---Power-BI-Dashboard
 ```
-<img width="1302" height="732" alt="Screenshot 2026-09-15 165626" src="https://github.com/user-attachments/assets/6ce20538-9fbc-4cab-9794-a628c02ecebc" />
 
-
-
-
-
+<img width="1302" height="732" alt="Screenshot 2026-09-15 165626" src="https://github.com/user-attachments/assets/5e20aac4-6750-4cf4-b89d-f0e48500d10f" />
 
 
 
