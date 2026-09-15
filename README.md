@@ -1,7 +1,10 @@
 # Customer-Churn-Analysis-amp-Prediction---Power-BI-Dashboard
 ```
 📌 Project Overview
-    This project focuses on analyzing customer churn for a Telecommunications company using Power BI. The goal is to identify key drivers of customer              attrition, analyze customer demographics and tenure distribution, and provide actionable recommendations to boost customer retention.
+    This project focuses on analyzing customer churn for a
+    Telecommunications company using Power BI. The goal is to identify key drivers of customer
+    attrition, analyze customer demographics and tenure distribution,
+    and provide actionable recommendations to boost customer retention.
 
 
 🛠️ Tools & Technologies Used
@@ -17,7 +20,8 @@
     Churn Rate %: Calculated dynamic churn rate percentage using safe division.
 
 2. Customer Demographics
-    Gender & Family Status: Analyzed churn split across Gender, Partner status, and Dependents status using Donut and Bar charts.
+    Gender & Family Status: Analyzed churn split across Gender, Partner status,
+    and Dependents status using Donut and Bar charts.
     Key Insight: Single customers without partners/dependents show a higher propensity to churn.
 
 3. Customer Tenure Analysis
@@ -25,8 +29,10 @@
     Key Insight: High churn risk is concentrated in **new customers (0–12 months tenure)**. Retention increases significantly after 2 years.
 
 4. Churn Drivers &amp; Business Factors
-    Contract Type: Month-to-month contracts have the highest churn rate compared to 1-year and 2-year commitments.
-    Payment Method: Electronic check users demonstrate a significantly higher churn rate compared to automated bank transfers or credit cards.
+    Contract Type: Month-to-month contracts have the highest churn rate
+    compared to 1-year and 2-year commitments.
+    Payment Method: Electronic check users demonstrate a significantly higher churn
+    rate compared to automated bank transfers or credit cards.
     Internet Service: Fiber Optic subscribers exhibit higher churn due to pricing/service expectations.
 
 
