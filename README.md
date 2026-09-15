@@ -1,10 +1,6 @@
 # Customer-Churn-Analysis-amp-Prediction---Power-BI-Dashboard
 ```
 
-![image](https://github.com/user-attachments/assets/2189f4fb-0e43-4eb3-8e1c-c38e57b714e7)
-
-
-
 📌 Project Overview
     This project focuses on analyzing customer churn for a
     Telecommunications company using Power BI. The goal is to identify key drivers of customer
