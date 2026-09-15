@@ -1,18 +1,16 @@
 # Customer-Churn-Analysis-amp-Prediction---Power-BI-Dashboard
 ```
-## 📌 Project Overview
+📌 Project Overview
 This project focuses on analyzing customer churn for a Telecommunications company using **Power BI**. The goal is to identify key drivers of customer attrition, analyze customer demographics and tenure distribution, and provide actionable recommendations to boost customer retention.
 
----
 
-## 🛠️ Tools &amp; Technologies Used
+🛠️ Tools & Technologies Used
 - **Power BI Desktop**: Dashboard design, visual report building.
 - **Power Query**: Data cleaning, handling null/missing values, data type transformations.
 - **DAX (Data Analysis Expressions)**: Custom measures (`Total Customers`, `Churned Customers`, `Churn Rate %`, `Tenure Bins`).
 
----
 
-## 📊 Dashboard Key Components &amp; Insights
+📊 Dashboard Key Components &amp; Insights
 
 ### 1. Churn Rate Overview
 - **Total Customers**: Evaluated total customer base.
